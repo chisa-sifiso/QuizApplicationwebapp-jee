@@ -39,4 +39,5 @@
   <h2>License</h2>
   <p>This project is licensed under the MIT License - see the LICENSE file for details.</p>
 </body>
+<h3>Developed by Sfiso Vinjwa</>
 </html>
